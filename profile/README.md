@@ -3,3 +3,4 @@
 这里旨在收集各种薅羊毛的方法，包括但不限于：
 
 - [百度墨斗鱼](https://cuttlefish.baidu.com)
+- [GitKraken](https://www.gitkraken.com/)
